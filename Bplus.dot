@@ -1,0 +1,12 @@
+digraph Q{
+ node [shape=record,height=.1];
+ node3[label = "<f0> |110|<f1> |215|<f2> |218|<f3> "];
+ node1[label = "<f0> |101|<f1> |102|<f2> "];
+ "node3":f0 -> "node1"
+ node5[label = "<f0> |110|<f1> |210|<f2> "];
+ "node3":f1 -> "node5"
+ node2[label = "<f0> |215|<f1> |217|<f2> "];
+ "node3":f2 -> "node2"
+ node4[label = "<f0> |218|<f1> |222|<f2> "];
+ "node3":f3 -> "node4"
+}
