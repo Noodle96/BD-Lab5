@@ -1,6 +1,5 @@
 # BD-Lab5
-C-217,Barcelona,750
-&nbsp;
+C-217,Barcelona,750&nbsp;
 C-101,Daimiel,500
 &nbsp;
 C-110,Daimiel,600
